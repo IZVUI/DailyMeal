@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Db xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Category name="pecta" discription="dc">
+    <Product>
+      <Name>certttt</Name>
+      <Gramms>3.4</Gramms>
+      <Protein>4.6</Protein>
+      <Fats>5</Fats>
+      <Carbs>6</Carbs>
+      <Calories>7</Calories>
+    </Product>
+    <Product>
+      <Name>zvcv</Name>
+      <Gramms>0.1</Gramms>
+      <Protein>9.3</Protein>
+      <Fats>4</Fats>
+      <Carbs>2</Carbs>
+      <Calories>3</Calories>
+    </Product>
+    <Product>
+      <Name>vsafr</Name>
+      <Gramms>5</Gramms>
+      <Protein>7</Protein>
+      <Fats>3</Fats>
+      <Carbs>1.3</Carbs>
+      <Calories>8</Calories>
+    </Product>
+  </Category>
+  <Category />
+</Db>
